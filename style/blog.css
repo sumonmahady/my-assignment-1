@@ -222,6 +222,8 @@
     width: 700px;
     height: 64px;
     margin-right: 18px;
+    border-radius: 8px;
+    border: 0px;
 }
 
 .search-text {
