@@ -205,6 +205,30 @@
 
 
 }
+/* bonus part start */
+
+.bonus{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #f9d9f9;
+    margin: 200px;
+    padding: 50px;
+    border-radius: 10px;
+}
+.bonus-deco{
+    color: #272727;
+    margin-left: 20px;
+}
+span{
+    text-decoration: underline;
+}
+
+
+
+
+
+/* bonus part end */
 
 .section-search {
     height: 449%;
